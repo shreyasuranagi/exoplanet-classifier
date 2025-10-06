@@ -17,4 +17,5 @@ A machine learning web app to classify Kepler exoplanet candidates using XGBoost
 Please check the ppt file
 
 ## Authors
-Your Name, Team Members, etc.
+Shreya S Suranagi (_suranagis)
+Team name - Exo_worlds
